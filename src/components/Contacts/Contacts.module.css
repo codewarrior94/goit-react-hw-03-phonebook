@@ -1,0 +1,16 @@
+.item {
+  display: inline-flex;
+  justify-content: space-between;
+  align-items: center;
+  min-width: 300px;
+}
+
+.btn {
+  width: auto;
+  height: 20px;
+}
+
+.list {
+  width: 300px;
+  list-style: disc;
+}
